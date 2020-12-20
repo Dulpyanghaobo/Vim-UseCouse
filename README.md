@@ -1,3 +1,4 @@
 # Vim-UseCouse
-Vim使用笔记
+VIM使用笔记
 
+1.修改.vimrc
