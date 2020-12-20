@@ -66,7 +66,8 @@ if !has('gui_running')
     inoremap <F10> <C-O>:emenu <C-Z>
   endif
 
-  " 识别终端的真彩支持
+  " 识别终
+vim-addon-manager install youcompleteme端的真彩支持
   if has('termguicolors') &&
         \($COLORTERM == 'truecolor' || $COLORTERM == '24bit')
     set termguicolors
